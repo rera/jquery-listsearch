@@ -20,7 +20,7 @@ Currently, listSearch only accepts one parameter:
 
 ```
 <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-<script src="jquery.listSearch.js"></script>
+<script src="jquery.listsearch.js"></script>
 
 <script type="text/javascript">
 	$(document).ready(function() {
